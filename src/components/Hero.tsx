@@ -161,7 +161,7 @@ export default function Hero() {
                 View Projects
               </button>
               <a
-                href="/resume.pdf"
+                href="/resume/raaj-golakiya-resume.pdf"
                 download
                 className="flex items-center gap-2 px-6 py-3 bg-white/[0.06] hover:bg-white/[0.1] text-slate-100 font-semibold rounded-xl border border-white/[0.08] hover:border-white/20 transition-all duration-200"
               >
